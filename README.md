@@ -1,5 +1,5 @@
-## Coursera Exploratory Data Analysis 
-# Assignment 1
+# Coursera Exploratory Data Analysis 
+## Assignment 1
 
 The file containing the data to recreate the plots is household_power_consumption_cut.txt. It has been modified using head, grep and cat to reduce the size as only 2 days of the file are needed.
 
